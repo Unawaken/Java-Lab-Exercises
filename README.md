@@ -1,26 +1,40 @@
-# ☕ Java Lab Exercises Archive
+☕ Java Lab Exercises Archive
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-CS--Labs-blue?style=for-the-badge)
 
-## 📘 About This Repository
-This repository serves as a comprehensive archive for all laboratory exercises, assignments, and coding challenges completed for **[Insert Course Name/Code]**. It documents my progression as a Computer Science student, moving from procedural programming to advanced Object-Oriented Programming (OOP).
+## 📂 Repository Overview
+This repository serves as a comprehensive archive of all laboratory exercises, assignments, and coding challenges completed for **[Insert Course Code/Name]**. It documents my progression as a Computer Science student, covering everything from basic syntax to advanced Object-Oriented Programming (OOP) and Data Structures.
 
-## 🛠️ Technologies & Tools
-* **Language:** Java (JDK [Insert Version])
-* **IDE:** [IntelliJ IDEA / Eclipse / VS Code]
+## 🛠️ Technologies & Environment
+* **Language:** Java (JDK [Version])
+* **IDE:** [Neovim Framework: LazyVim]
 * **Version Control:** Git
 
-## 🗂️ Repository Structure
-The exercises are organized by topic. Each folder contains the source code and relevant documentation.
+## 🗂️ Directory Structure
+The repository is organized by weekly modules and topics.
 
 ```text
-├── 01-Basics/              # Syntax, Data Types, I/O
-├── 02-Control-Flow/        # Loops, Conditionals, Switch
-├── 03-Arrays-Strings/      # Array manipulation, String logic
-├── 04-OOP-Intro/           # Classes, Objects, Constructors
-├── 05-Inheritance/         # Extends, Super, Overriding
-├── 06-Polymorphism/        # Interfaces, Abstract Classes
-├── 07-Collections/         # ArrayList, HashMap, Sets
-├── 08-Exception-Handling/  # Try-Catch, Custom Exceptions
-└── 09-File-IO/             # Reading and Writing files
+root/
+├── 01-Basics/              # Syntax, I/O, Primitive Data Types
+├── 02-Control-Flow/        # Loops, If-Else, Switch Cases
+├── 03-Arrays-Strings/      # Array Manipulation, String Logic
+├── 04-Methods/             # Functions, Recursion, Overloading
+├── 05-OOP-Core/            # Classes, Objects, Encapsulation
+├── 06-Inheritance/         # Extends, Super, Polymorphism
+├── 07-Abstraction/         # Interfaces, Abstract Classes
+├── 08-Collections/         # ArrayLists, HashMaps, Sets
+└── 09-File-Handling/       # Input/Output Streams, Serialization
+
+🚀 How to Run
+To execute a specific lab exercise, use the terminal to navigate and compile.
+1. Navigate to the folder:Bashcd 01-Basics
+2. Compile the Java file:Bashjavac Main.java
+3. Run the application:Bashjava Main
+
+👤 Author: Emman Christopher
+Role: Computer Science Student
+Institution: National University Dasmarinas
+GitHub: @Scorch
+Disclaimer: This repository contains my personal solutions for educational purposes.
